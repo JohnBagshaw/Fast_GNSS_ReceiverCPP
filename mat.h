@@ -1,11 +1,3 @@
-/**
- * Project Title: GNSS-R SDR
- * Author :       John Bagshaw
- * Contact :      jotshaw@yorku.ca
- * Supervisors:   Prof.Sunil Bisnath
- * Institution :  York University, Canada.
- **/
-
 #pragma once
 /* Published header for libmat, the mat library.
    Copyright 1984-2018 The MathWorks, Inc.

@@ -1,11 +1,3 @@
-/**
- * Project Title: GNSS-R SDR
- * Author :       John Bagshaw
- * Contact :      jotshaw@yorku.ca
- * Supervisor:   Prof.Sunil Bisnath
- * Institution :  York University, Canada.
- **/
-
 #pragma once
 /*
  * External header for the libmx library.
